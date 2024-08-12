@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>http://localhost:1313/en-ca/sitemap.xml</loc>
+    
+      <lastmod>2024-08-12T18:48:06+08:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://localhost:1313/ri-sk/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
