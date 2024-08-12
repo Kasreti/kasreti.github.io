@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on kasreti&#39;s crib</title>
+    <link>http://localhost:1313/pages/</link>
+    <description>Recent content in Pages on kasreti&#39;s crib</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language><atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pages/about/</guid>
+      
+      <description>Welcome to kasreti&amp;rsquo;s crib! This is basically where I&amp;rsquo;ll put any long ramblings I have &amp;ndash; but what should you expect here?
+Linguistics and conlangs I do reading on my own about linguistics quite often, so I&amp;rsquo;ll put any new discoveries that I find cool here and share them. I&amp;rsquo;ll try to put more explainer notes around to clarify some terminology since 90% of the people reading this blog will have zero clue about linguistics.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kasreti&#39;s crib</title>
+    <title>home on kasreti&#39;s crib</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on kasreti&#39;s crib</description>
+    <description>Recent content in home on kasreti&#39;s crib</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 12 Aug 2024 18:48:06 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Aug 2024 17:25:05 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>about me</title>
-      <link>http://localhost:1313/en/pages/about/</link>
-      <pubDate>Mon, 12 Aug 2024 18:48:06 +0800</pubDate>
+      <title>test post</title>
+      <link>http://localhost:1313/posts/test-post/</link>
+      <pubDate>Mon, 12 Aug 2024 17:25:05 +0800</pubDate>
       
-      <guid>http://localhost:1313/en/pages/about/</guid>
+      <guid>http://localhost:1313/posts/test-post/</guid>
       
-      <description>hiya</description>
+      <description>hello welcome to michaelsof
+i&amp;rsquo;ve uh yet to make a proper blog page check out the about section for now the new world order is here!!!</description>
       
     </item>
     
     <item>
-      <title>test post</title>
-      <link>http://localhost:1313/en/posts/test-post/</link>
-      <pubDate>Mon, 12 Aug 2024 17:25:05 +0800</pubDate>
+      <title>About</title>
+      <link>http://localhost:1313/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/posts/test-post/</guid>
+      <guid>http://localhost:1313/pages/about/</guid>
       
-      <description>hello welcome to michaelsof
-The Sitakuan Ministry of Health has ordered this observed sabarrak chain to terminate to prevent the spread of autism.</description>
+      <description>Welcome to kasreti&amp;rsquo;s crib! This is basically where I&amp;rsquo;ll put any long ramblings I have &amp;ndash; but what should you expect here?
+Linguistics and conlangs I do reading on my own about linguistics quite often, so I&amp;rsquo;ll put any new discoveries that I find cool here and share them. I&amp;rsquo;ll try to put more explainer notes around to clarify some terminology since 90% of the people reading this blog will have zero clue about linguistics.</description>
       
     </item>
     

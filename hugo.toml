@@ -1,5 +1,5 @@
 title = "kasreti's crib"
-description = "the unhinged ramblings of the most successful social media influencer of the decade"
+description = "welcome to the crib"
 baseURL = "https://kasreti.github.io"
 
 languageCode = 'en-ca'
@@ -9,6 +9,7 @@ theme = "blog"
 defaultColor = "light" 
 enableEmoji = true
 ignoreErrors = ["additional-script-loading-error"]
+mainSections = ['posts']
 
 [params]
 	favicon = true
@@ -24,62 +25,36 @@ ignoreErrors = ["additional-script-loading-error"]
 	name = "twitter"
 	url = "https://twitter.com/kasreti"
 
-## ENGLISH ##
-[languages.en-ca]
-	languageName = "English"
-	languageCode = "en-ca"
-	contentDir = "content/en"
-	weight = 1
-	[Languages.en-ca.menu]
-	[[Languages.en-ca.menu.main]]
+[params.author]
+		avatar = "author/pfp.png"
+		intro = "kasreti's crib"
+		name = "Kasreti"
+		description = "the unhinged ramblings of the most successful social media influencer of the decade"
+
+[services]
+	[services.disqus]
+		shortname = 'dacomments'
+
+contentDir = "content"
+weight = 1
+[menu]
+	[[menu.main]]
 		# The page reference (pageRef) is useful for menu highlighting
 		# When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
 		pageRef="/"
 		name = 'home'
 		url = '/'
 		weight = 10
-	[[Languages.en-ca.menu.main]]
+	[[menu.main]]
+		pageRef="about"
+		name = 'about'
+		url = '/about/'
+		weight = 20
+	[[menu.main]]
 		pageRef="posts"
 		name = 'all posts'
 		url = '/posts/'
-		weight = 20
-	[[Languages.en-ca.menu.main]]
-		pageRef="about"
-		name = 'about me'
-		url = '/about/'
 		weight = 30
-	[Languages.en-ca.params.author]
-		avatar = "author/pfp.png"
-		intro = "kasreti's crib"
-		name = "Kasreti"
-		description = "the unhinged ramblings of the most successful social media influencer of the decade"
-
-## RIKATISYÏ ##
-[languages.ri-sk]
-	languageName = "Rikatisyï"
-	languageCode = "ri-sk"
-	contentDir = "content/rika"
-	weight = 1
-	[Languages.ri-sk.menu]
-	[[Languages.ri-sk.menu.main]]
-		pageRef="/"
-		name = 'oralatsi'
-		url = '/'
-		weight = 10
-	[[Languages.ri-sk.menu.main]]
-		pageRef="posts"
-		name = 'kul esyaxéda'
-		url = '/posts/'
-		weight = 20
-	[[Languages.ri-sk.menu.main]]
-		pageRef="about"
-		name = 'yave'
-		url = '/about/'
-		weight = 30
-	[Languages.ri-sk.params.author]
-		avatar = "author/pfp.png"
-		intro = "kasreti's crib"
-		name = "Kasreti"
-		description = "rikaitsyïn imiran w-amí welya"
+	
 
 
