@@ -1,5 +1,5 @@
 ---
-title: About
+title: about
 draft: false
 toc: false
 description: what to expect on this blog
@@ -11,7 +11,7 @@ Welcome to kasreti's crib! This is basically where I'll put any long ramblings I
 ## Linguistics and conlangs
 I do reading on my own about linguistics quite often, so I'll put any new discoveries that I find cool here and share them. I'll *try* to put more explainer notes around to clarify some terminology since 90% of the people reading this blog will have zero clue about linguistics. You might also see personal advancements in Japanese here.
 
-On the other hand, I'll put a lot of meta updates about the development of Rikatisyï, my main conlang; particularly around the grammar, phonotactic changes, historical and dialectal changes, the writing system and just miscellaneous dictionary additions.
+On the other hand, I'll put a lot of meta updates about the development of Rikatisyï, my main conlang (constructed language -- a language I designed myself); particularly around the grammar, phonotactic changes, historical and dialectal changes, the writing system and just miscellaneous dictionary additions.
 {{< figure src="demon.png" height="250" >}}
 *This means presenting this kind of information in a manner humans will understand.*
 

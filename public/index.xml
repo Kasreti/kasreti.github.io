@@ -6,7 +6,18 @@
     <description>Recent content in home on kasreti&#39;s crib</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 12 Aug 2024 17:25:05 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Half-Consonants and the Evolution of Cosyran</title>
+      <link>http://localhost:1313/posts/rikascript-and-verbs/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/rikascript-and-verbs/</guid>
+      
+      <description>Over the course of the past two weeks, I&amp;rsquo;ve been revamping my conscript (writing system): Isyaxé Kiryada. While teaching the script to my friends, I realized that a fatal flaw with the script was that even after previous updates, it was unable to express certain consonant clusters, such as in the phrase cosyran ka (note that c is pronounced like ch, and sy is pronounced like sh). But why? Why didn&amp;rsquo;t I just design the script to support such a basic feature of the language to begin with?</description>
+      
+    </item>
+    
     <item>
       <title>test post</title>
       <link>http://localhost:1313/posts/test-post/</link>
@@ -20,7 +31,7 @@ i&amp;rsquo;ve uh yet to make a proper blog page check out the about section for
     </item>
     
     <item>
-      <title>About</title>
+      <title>about</title>
       <link>http://localhost:1313/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

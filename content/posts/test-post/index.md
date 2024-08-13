@@ -1,7 +1,7 @@
 ---
 title: test post
 date: 2024-08-12T17:25:05+08:00
-draft: false
+draft: true
 toc: false
 description: testing whether this shit works or not
 ---
