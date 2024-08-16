@@ -53,7 +53,7 @@
         },
         "datePublished": "2024-08-14",
         "description": "The first long article about Rikatisyï on this blog.",
-        "wordCount":  889 ,
+        "wordCount":  1012 ,
         "mainEntityOfPage": "True",
         "dateModified": "2024-08-14",
         "image": {
@@ -92,7 +92,7 @@
     
 
     <link rel="canonical" href="http://localhost:1313/posts/rikascript-and-verbs/">
-    <link href="/style.min.d43bc6c79baa87f006efb2b92be952faeedeb1a3ab626c1d6abda52eae049355.css" rel="stylesheet">
+    <link href="/style.min.f5fde3a8bb5171168d9ec04b018cdca149af09bee9cfca5637dd95e0e3d6267c.css" rel="stylesheet">
     <link href="/code-highlight.min.706d31975fec544a864cb7f0d847a73ea55ca1df91bf495fd12a177138d807cf.css" rel="stylesheet">
 
     
@@ -199,7 +199,7 @@ Why didn&rsquo;t I just design the script to support such a basic feature of the
 
 <em>My slave hard at work spreading the gospel.</em></p>
 <h2 id="the-four-stages-of-rikatisyï">The four stages of Rikatisyï</h2>
-<p>Rikatisyï was originally a submission to a ConJam (a competition where people compete to make languages around a certain theme), so I felt pretty oblidged to make a proto-language and evolve my main submission from that since that&rsquo;s what <em>basically</em> everyone did.
+<p>Rikatisyï was originally a submission to a ConJam (a competition where people compete to make languages around a certain theme), so I felt pretty obliged to make a proto-language and evolve my main submission from that since that&rsquo;s what <em>basically</em> everyone did.
 <figure><img src="/posts/rikascript-and-verbs/rikaevo.png">
 </figure>
 
@@ -235,9 +235,22 @@ And now, the cosyran issue resolved:
 </figure>
 
 And one of the main reasons behind this change is one of my favourite phonological concepts to explain to people: palatalization. Simply put, that&rsquo;s when a consonant has a <em>y</em> (/j/) attached to it, and that eventually causes the consonant to shift as a whole.</p>
+<blockquote>
+<p><strong>The quick summary for people who can read phonological changes:</strong></p>
+<p>H-deletion intervocalically: h &gt; ∅ / V_V [tʰʲɔ.su.ˈhi.ran &gt; tʰʲɔ.sui.ran]</p>
+<p>Unrounding of u: u &gt; ɯ [tʰʲɔ.su.ˈhi.ran &gt; tʰʲɔ.ˈsɯi.ran]</p>
+<p>Monopthonigzation: ɯi &gt; jɯ &gt; ʲy [tʰʲɔ.ˈsɯi.ran &gt; tʰʲɔ.ˈsʲy.ran]</p>
+<p>Palatalization: tʲ, sʲ &gt; tɕ, ɕ [tʰʲɔ.ˈsʲy.ran &gt; t͡ɕʰɔ.ˈɕy.ran]</p>
+<p>Stress shifts to the penultimate syllable of a root rather than the inflected form: [t͡ɕʰɔ.ˈɕy.ran &gt; ˈt͡ɕʰɔ.ɕy.ran]</p>
+<p>Vowel deletion when unstressed: V [-stress] &gt; V [-voice] &gt; ∅ / [t͡ɕ,d͡ʑ,ɕ,ʑ,s,l]_[r,m,n] [ˈt͡ɕʰɔ.ɕy.ran &gt; ˈt͡ɕʰɔɕ.ran]</p>
+<p>Nasalization of vowels: Vn &gt; V [+nasal] // _[+plosive] [ˈt͡ɕʰɔɕ.ran &gt; ˈt͡ɕʰɔɕ.rã]</p>
+</blockquote>
 <p>This exists in English as well! Say the phrase &ldquo;don&rsquo;t you&rdquo; out loud casually. It often turns out as &ldquo;don&rsquo;tcha&rdquo;, doesn&rsquo;t it? The &ldquo;ty&rdquo; part becomes a &ldquo;ch&rdquo;. How about &ldquo;produce&rdquo;? Do you say it as pro<em>dyus</em> or pro<em>jus</em>? The latter is the effect of palatalization. The same thing happened to our initial syllable <em>tyo</em> in Classical Rikatisyï. Over time, the consonant shifted from being pronounced as <em>ty</em> /tʰʲ/ to simply <em>ch</em> /t͡ɕʰ/.</p>
 <p>How about the two-syllable <em>suhi</em> /su.hi/ becoming <em>syï</em> (/ɕy/, pronounced like shu)? This one was a multi-step process, first with the consonant <em>h</em> being lost. Historically, /h/-loss is extremely common across languages. For those of you who speak Spanish, note how words like <em>hoy</em> and <em>hambre</em> begin with <em>h</em>, yet it isn&rsquo;t pronounced. At one point, those h-s were being pronounced, but h is such a weak consonant (it&rsquo;s just exhaling) that it got lost over time, with its remnants existing in writing. This exists in English, too, in phrases like <em>should have</em>, where the h merges into the previous word, forming something like <em>should&rsquo;ve</em> instead.</p>
 <p>Now that the h has been lost, we&rsquo;re left with <em>sui</em> /sui/. At this stage, the diphthong monophthongizes (two vowels merging into one), with ui becoming ï (click <a href="https://upload.wikimedia.org/wikipedia/commons/e/ea/Close_front_rounded_vowel.ogg">here</a> to listen to how it&rsquo;s pronounced). This vowels also ends up palatalizing the previous consonant, adding a y to it, forming <em>syï</em>. Palatalization continues further, and eventually, sy is pronounced <em>sh</em> (/ɕ/) — which is why /ɕ/ is spelled as sy!</p>
+<p>The ï between sy and r is eventually dropped, as it&rsquo;s an
+unstressed vowel which became devoiced, then dropped and turned
+into a consonant cluster, leaving us with the final <em>syr</em>.</p>
 <h2 id="dealing-with-syr">Dealing with <em>syr</em></h2>
 <p>I managed to solve the issue of the syr cluster in writing, but now I face the issue of pronunciation; I have trouble <em>trilling</em> the r after the sy sound. As such, I&rsquo;m currently considering reintroducing the -ï verb ending whenever -ran or -rö appears (as opposed to the -e- infix with -sran and -srö). The inflection table for the aspects will then become:</p>
 <table>
@@ -305,7 +318,7 @@ And one of the main reasons behind this change is one of my favourite phonologic
 </tr>
 </tbody>
 </table>
-<p>In my next conlang-related post, I&rsquo;ll go over development of the four verb endings, and why the conditional depalatalizes from cosy- back to cos-! These posts also act as a good way for me to flesh out my conlang&rsquo;s history, so I&rsquo;ll probably keep writing these when inspiration strikes me.</p>
+<p>In my next conlang-related post, I&rsquo;ll go over development of the four verb endings, and why the conditional depalatalizes from cosy- back to cos-. These posts also act as a good way for me to flesh out my conlang&rsquo;s history, so I&rsquo;ll probably keep writing these when inspiration strikes me.</p>
 
             </div>
         </article><hr style="margin-top: 40px; margin-bottom: 40px;" />

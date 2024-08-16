@@ -11,7 +11,7 @@ Why didn't I just design the script to support such a basic feature of the langu
 *My slave hard at work spreading the gospel.*
 
 ## The four stages of Rikatisyï
-Rikatisyï was originally a submission to a ConJam (a competition where people compete to make languages around a certain theme), so I felt pretty oblidged to make a proto-language and evolve my main submission from that since that's what *basically* everyone did.
+Rikatisyï was originally a submission to a ConJam (a competition where people compete to make languages around a certain theme), so I felt pretty obliged to make a proto-language and evolve my main submission from that since that's what *basically* everyone did.
 {{< figure src="rikaevo.png">}}
 We're going to focus on the main four. Now, let's look at the **maximum syllable structure** for each of these languages:
 {{< figure src="syllable struc.png">}}
@@ -36,11 +36,31 @@ It's time for a brief introduction into the way Rikatisyï evolved. If we go bac
 {{< figure src="cosyran evo.png" width="300">}}
 And one of the main reasons behind this change is one of my favourite phonological concepts to explain to people: palatalization. Simply put, that's when a consonant has a *y* (/j/) attached to it, and that eventually causes the consonant to shift as a whole.
 
+> **The quick summary for people who can read phonological changes:**
+>
+> H-deletion intervocalically: h > ∅ / V_V [tʰʲɔ.su.ˈhi.ran > tʰʲɔ.sui.ran]
+>
+> Unrounding of u: u > ɯ [tʰʲɔ.su.ˈhi.ran > tʰʲɔ.ˈsɯi.ran]
+>
+> Monopthonigzation: ɯi > jɯ > ʲy [tʰʲɔ.ˈsɯi.ran > tʰʲɔ.ˈsʲy.ran]
+>
+> Palatalization: tʲ, sʲ > tɕ, ɕ [tʰʲɔ.ˈsʲy.ran > t͡ɕʰɔ.ˈɕy.ran]
+>
+> Stress shifts to the penultimate syllable of a root rather than the inflected form: [t͡ɕʰɔ.ˈɕy.ran > ˈt͡ɕʰɔ.ɕy.ran]
+>
+> Vowel deletion when unstressed: V [-stress] > V [-voice] > ∅ / [t͡ɕ,d͡ʑ,ɕ,ʑ,s,l]_[r,m,n] [ˈt͡ɕʰɔ.ɕy.ran > ˈt͡ɕʰɔɕ.ran]
+>
+> Nasalization of vowels: Vn > V [+nasal] // _[+plosive] [ˈt͡ɕʰɔɕ.ran > ˈt͡ɕʰɔɕ.rã]
+
 This exists in English as well! Say the phrase "don't you" out loud casually. It often turns out as "don'tcha", doesn't it? The "ty" part becomes a "ch". How about "produce"? Do you say it as pro*dyus* or pro*jus*? The latter is the effect of palatalization. The same thing happened to our initial syllable *tyo* in Classical Rikatisyï. Over time, the consonant shifted from being pronounced as *ty* /tʰʲ/ to simply *ch* /t͡ɕʰ/.
 
 How about the two-syllable *suhi* /su.hi/ becoming *syï* (/ɕy/, pronounced like shu)? This one was a multi-step process, first with the consonant *h* being lost. Historically, /h/-loss is extremely common across languages. For those of you who speak Spanish, note how words like *hoy* and *hambre* begin with *h*, yet it isn't pronounced. At one point, those h-s were being pronounced, but h is such a weak consonant (it's just exhaling) that it got lost over time, with its remnants existing in writing. This exists in English, too, in phrases like *should have*, where the h merges into the previous word, forming something like *should've* instead.
 
 Now that the h has been lost, we're left with *sui* /sui/. At this stage, the diphthong monophthongizes (two vowels merging into one), with ui becoming ï (click [here](https://upload.wikimedia.org/wikipedia/commons/e/ea/Close_front_rounded_vowel.ogg) to listen to how it's pronounced). This vowels also ends up palatalizing the previous consonant, adding a y to it, forming *syï*. Palatalization continues further, and eventually, sy is pronounced *sh* (/ɕ/) — which is why /ɕ/ is spelled as sy!
+
+The ï between sy and r is eventually dropped, as it's an 
+unstressed vowel which became devoiced, then dropped and turned 
+into a consonant cluster, leaving us with the final *syr*.
 
 ## Dealing with *syr*
 I managed to solve the issue of the syr cluster in writing, but now I face the issue of pronunciation; I have trouble *trilling* the r after the sy sound. As such, I'm currently considering reintroducing the -ï verb ending whenever -ran or -rö appears (as opposed to the -e- infix with -sran and -srö). The inflection table for the aspects will then become:
@@ -59,4 +79,4 @@ On the other hand, the mood inflection table for the moods for the verb cosy wou
 | Passive | cosyá |
 | Imperative | cosye |
 
-In my next conlang-related post, I'll go over development of the four verb endings, and why the conditional depalatalizes from cosy- back to cos-! These posts also act as a good way for me to flesh out my conlang's history, so I'll probably keep writing these when inspiration strikes me.
+In my next conlang-related post, I'll go over development of the four verb endings, and why the conditional depalatalizes from cosy- back to cos-. These posts also act as a good way for me to flesh out my conlang's history, so I'll probably keep writing these when inspiration strikes me.
