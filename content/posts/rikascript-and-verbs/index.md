@@ -3,6 +3,7 @@ title: Half-Consonants and the Evolution of Cosyran
 date: 2024-08-14T00:00:00+08:00
 draft: false
 toc: false
+comments: true
 description: The first long article about Rikatisyï on this blog.
 ---
 Over the course of the past two weeks, I've been revamping my conscript (writing system): *Isyaxé Kiryada*. While teaching the script to my friends, I realized that a fatal flaw with the script was that even after previous updates, it was unable to express certain consonant clusters, such as in the phrase *cosyran ka* (note that *c* is pronounced like *ch*, and *sy* is pronounced like *sh*). But why?
