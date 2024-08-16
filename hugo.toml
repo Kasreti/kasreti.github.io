@@ -1,5 +1,5 @@
 title = "kasreti's crib"
-description = "welcome to the crib"
+description = "welcome to kasreti's crib"
 baseURL = "https://kasreti.github.io"
 
 languageCode = 'en-ca'
@@ -30,10 +30,6 @@ mainSections = ['posts']
 		intro = "kasreti's crib"
 		name = "Kasreti"
 		description = "the unhinged ramblings of the most successful social media influencer of the decade"
-
-[services]
-	[services.disqus]
-		shortname = 'dacomments'
 		
 [markup]
 	[markup.goldmark]
