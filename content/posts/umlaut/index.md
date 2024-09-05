@@ -1,5 +1,5 @@
 ---
-title: "One mouse, two mice; an layman's intro to Germanic umlaut"
+title: "One mouse, two mice; a layman's intro to Germanic umlaut"
 date: 2024-09-05T19:17:07+08:00
 draft: false
 toc: false
