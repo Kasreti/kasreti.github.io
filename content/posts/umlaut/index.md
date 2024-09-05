@@ -3,7 +3,7 @@ title: "One mouse, two mice; an layman's intro to Germanic umlaut"
 date: 2024-09-05T19:17:07+08:00
 draft: false
 toc: false
-description:
+description: "How did these irregular plurals form in English?"
 ---
 While speaking English, you may have noticed a strange set of irregular plurals. One mouse, but two mice? One foot, two feet? This is the result of a phenomenon known as **Germanic umlaut**; when vowels are either raised, fronted or both. But what does this mean?
 
