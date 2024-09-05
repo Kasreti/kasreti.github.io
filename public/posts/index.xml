@@ -6,7 +6,19 @@
     <description>Recent content in Posts on kasreti&#39;s crib</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 15 Aug 2024 00:26:25 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Sep 2024 19:17:07 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>One mouse, two mice; an layman&#39;s intro to Germanic umlaut</title>
+      <link>http://localhost:1313/posts/umlaut/</link>
+      <pubDate>Thu, 05 Sep 2024 19:17:07 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/umlaut/</guid>
+      
+      <description>While speaking English, you may have noticed a strange set of irregular plurals. One mouse, but two mice? One foot, two feet? This is the result of a phenomenon known as Germanic umlaut; when vowels are either raised, fronted or both. But what does this mean?
+Oversimplified introduction to the IPA The IPA (International Phonetic Alphabet) is what linguists use to notate sounds in human languages accurately. This article will use IPA notation surrounded in slashes.</description>
+      
+    </item>
+    
     <item>
       <title>some old chinese</title>
       <link>http://localhost:1313/posts/baxter-one/</link>
